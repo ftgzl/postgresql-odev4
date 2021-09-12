@@ -1,1 +1,3 @@
-# postgresql-odev4
+# postgresql
+
+DISTINCT and COUNT example
